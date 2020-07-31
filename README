@@ -1,0 +1,5 @@
+This repos contains an attempt to create CWlite and Biba Linux Security Modules.
+These attempts were done as part of the Operating System Securtiy class at Iowa State University.
+
+This code represents the ending state of the project at the time of turn in, not all of the tests pass
+and a kernel panic is possible in a couple places. These are not intended for use.
